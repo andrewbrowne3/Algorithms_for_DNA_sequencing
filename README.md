@@ -13,7 +13,7 @@ A Python package for DNA sequence analysis, including FASTQ parsing, motif searc
 ## Installation
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/Algorithms_for_DNA_sequencing.git
+pip install git+https://github.com/andrewbrowne3/Algorithms_for_DNA_sequencing.git
 ```
 
 ## Usage Examples

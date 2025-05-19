@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Your Name",
     author_email="your.email@example.com",
-    url="https://github.com/YOUR_USERNAME/Algorithms_for_DNA_sequencing",
+    url="https://github.com/andrewbrowne3/Algorithms_for_DNA_sequencing",
     packages=find_packages(),
     install_requires=[
         "matplotlib>=3.4.0",
