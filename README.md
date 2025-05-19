@@ -68,8 +68,4 @@ hist, quality = fastq_parser.histogram(quality_scores)
 ## Requirements
 
 - Python 3.6+
-- matplotlib
-
-## License
-
-MIT License 
+- matplotlib 
